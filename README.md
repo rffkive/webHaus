@@ -30,7 +30,7 @@ For inquiries or collaborations, reach out at:
 
 ## captions
 
-*Purpose-built websites for people who build — properties, brands, or their own name.*
-*Your space deserves a presence — online.*
-*From open houses to open tabs — we design for presence, not just pixels.*
+- *Purpose-built websites for people who build — properties, brands, or their own name.*
+- *Your space deserves a presence — online.*
+  *From open houses to open tabs — we design for presence, not just pixels.*
 
