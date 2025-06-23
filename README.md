@@ -32,5 +32,5 @@ For inquiries or collaborations, reach out at:
 
 - *Purpose-built websites for people who build — properties, brands, or their own name.*
 - *Your space deserves a presence — online.*
-  *From open houses to open tabs — we design for presence, not just pixels.*
+- *From open houses to open tabs — we design for presence, not just pixels.*
 
